@@ -1,3 +1,1 @@
-##### Leet_Code-
 
-# MySQL
